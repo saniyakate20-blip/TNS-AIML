@@ -41,7 +41,7 @@ This repository is organized into the following sections:
             Machine Learning: Experiments and implementations of machine learning concepts.
   
 - Mini-Project(Capstone_Project) : A practical project developed during the training program.
-- 
+
 The folder structure reflects the work uploaded to this repository.
 
 🚀 Mini-Project
